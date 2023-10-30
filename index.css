@@ -1,0 +1,14 @@
+.body{
+  background-color: #fff;
+  background-image: url('src/img/Recurso\ 1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: 100vh;
+}
+.my-menu{
+width: 50%;
+height: auto;
+background-color: aqua;
+
+}
